@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.universityapplication.universityapplication.models.CommentTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.151 sec <<< FAILURE!
+com.universityapplication.universityapplication.models.CommentTest.testGetComment()  Time elapsed: 0.125 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <User> but was: <Comment>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at com.universityapplication.universityapplication.models.CommentTest.testGetComment(CommentTest.java:67)
+

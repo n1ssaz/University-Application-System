@@ -1,0 +1,49 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/35568/Documents/NetBeansProjects/UniversityApplication/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/35568/Documents/NetBeansProjects/UniversityApplication/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UniversityApplication 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/35568/Documents/NetBeansProjects/UniversityApplication/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'UniversityApplication 1.0-SNAPSHOT API'
+'C:/Users/35568/Documents/NetBeansProjects/UniversityApplication/src/main/java/com/universityapplication/universityapplication/MysqlConnection.java'
+'C:/Users/35568/Documents/NetBeansProjects/UniversityApplication/src/main/java/com/universityapplication/universityapplication/Register.java'
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\src\main\java = 1623503716674
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\allclasses-index.html = 1623504702284
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\allclasses.html = 1623504702347
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\allpackages-index.html = 1623504702300
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\constant-values.html = 1623504702018
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\deprecated-list.html = 1623504702331
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\element-list = 1623504701972
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\help-doc.html = 1623504702362
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\index-all.html = 1623504702237
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\index.html = 1623504702347
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\member-search-index.js = 1623504702237
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\member-search-index.zip = 1623504702237
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\overview-tree.html = 1623504702128
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\package-search-index.js = 1623504702144
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\package-search-index.zip = 1623504702206
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\script.js = 1623504702394
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\search.js = 1623504702409
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\serialized-form.html = 1623504702065
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\stylesheet.css = 1623504702394
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\type-search-index.js = 1623504702206
+C:\Users\35568\Documents\NetBeansProjects\UniversityApplication\target\site\apidocs\type-search-index.zip = 1623504702222
